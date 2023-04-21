@@ -1,0 +1,6 @@
+2023-04-13 14:10:37,577 INFO  EmpregistrationApplication:18 - [] This is info message from Main class
+2023-04-13 14:10:37,589 WARN  EmpregistrationApplication:19 - [] This is warn message from Main class
+2023-04-13 14:10:37,591 ERROR EmpregistrationApplication:20 - [] This is error message from Main class
+2023-04-13 14:10:37,592 DEBUG EmpregistrationApplication:21 - [] This is debug message from Main class
+2023-04-13 14:10:37,593 INFO  EmpregistrationApplication:24 - [] Hello User 
+ Application starts now...

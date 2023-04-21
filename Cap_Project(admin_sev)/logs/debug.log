@@ -1,0 +1,6 @@
+2023-04-20 07:58:17,231 INFO  Application:20 - [] This is info message from Main class
+2023-04-20 07:58:17,239 WARN  Application:21 - [] This is warn message from Main class
+2023-04-20 07:58:17,239 ERROR Application:22 - [] This is error message from Main class
+2023-04-20 07:58:17,241 DEBUG Application:23 - [] This is debug message from Main class
+2023-04-20 07:58:17,241 INFO  Application:26 - [] Hello User 
+ Application starts now...

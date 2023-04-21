@@ -1,0 +1,62 @@
+2023-04-16 10:17:53,586 INFO  Application:18 - [] This is info message from Main class
+2023-04-16 10:17:53,590 WARN  Application:19 - [] This is warn message from Main class
+2023-04-16 10:17:53,590 ERROR Application:20 - [] This is error message from Main class
+2023-04-16 10:17:53,591 DEBUG Application:21 - [] This is debug message from Main class
+2023-04-16 10:17:53,591 INFO  Application:24 - [] Hello User 
+ Application starts now...
+2023-04-16 10:18:07,490 DEBUG ProjectController:43 - [] Sucessfully you got the Project details by id
+2023-04-16 10:53:08,986 INFO  Application:18 - [] This is info message from Main class
+2023-04-16 10:53:08,992 WARN  Application:19 - [] This is warn message from Main class
+2023-04-16 10:53:08,993 ERROR Application:20 - [] This is error message from Main class
+2023-04-16 10:53:08,996 DEBUG Application:21 - [] This is debug message from Main class
+2023-04-16 10:53:08,997 INFO  Application:24 - [] Hello User 
+ Application starts now...
+2023-04-16 10:53:20,047 DEBUG ProjectController:35 - [] Sucessfully you featched all the Project details
+2023-04-16 10:54:50,151 INFO  Application:18 - [] This is info message from Main class
+2023-04-16 10:54:50,151 WARN  Application:19 - [] This is warn message from Main class
+2023-04-16 10:54:50,151 ERROR Application:20 - [] This is error message from Main class
+2023-04-16 10:54:50,151 DEBUG Application:21 - [] This is debug message from Main class
+2023-04-16 10:54:50,152 INFO  Application:24 - [] Hello User 
+ Application starts now...
+2023-04-16 10:54:57,073 DEBUG ProjectController:35 - [] Sucessfully you featched all the Project details
+2023-04-16 11:44:18,586 INFO  Application:18 - [] This is info message from Main class
+2023-04-16 11:44:18,592 WARN  Application:19 - [] This is warn message from Main class
+2023-04-16 11:44:18,593 ERROR Application:20 - [] This is error message from Main class
+2023-04-16 11:44:18,594 DEBUG Application:21 - [] This is debug message from Main class
+2023-04-16 11:44:18,595 INFO  Application:24 - [] Hello User 
+ Application starts now...
+2023-04-16 11:44:26,859 DEBUG ProjectController:35 - [] Sucessfully you featched all the Project details
+2023-04-16 11:56:26,863 INFO  Application:20 - [] This is info message from Main class
+2023-04-16 11:56:26,869 WARN  Application:21 - [] This is warn message from Main class
+2023-04-16 11:56:26,870 ERROR Application:22 - [] This is error message from Main class
+2023-04-16 11:56:26,870 DEBUG Application:23 - [] This is debug message from Main class
+2023-04-16 11:56:26,871 INFO  Application:26 - [] Hello User 
+ Application starts now...
+2023-04-16 11:57:32,062 DEBUG ProjectController:35 - [] Sucessfully you featched all the Project details
+2023-04-16 11:58:38,199 INFO  Application:20 - [] This is info message from Main class
+2023-04-16 11:58:38,204 WARN  Application:21 - [] This is warn message from Main class
+2023-04-16 11:58:38,206 ERROR Application:22 - [] This is error message from Main class
+2023-04-16 11:58:38,206 DEBUG Application:23 - [] This is debug message from Main class
+2023-04-16 11:58:38,207 INFO  Application:26 - [] Hello User 
+ Application starts now...
+2023-04-16 11:58:42,619 DEBUG ProjectController:35 - [] Sucessfully you featched all the Project details
+2023-04-16 12:02:32,287 INFO  Application:20 - [] This is info message from Main class
+2023-04-16 12:02:32,293 WARN  Application:21 - [] This is warn message from Main class
+2023-04-16 12:02:32,294 ERROR Application:22 - [] This is error message from Main class
+2023-04-16 12:02:32,295 DEBUG Application:23 - [] This is debug message from Main class
+2023-04-16 12:02:32,296 INFO  Application:26 - [] Hello User 
+ Application starts now...
+2023-04-16 12:02:39,121 DEBUG ProjectController:43 - [] Sucessfully you got the Project details by id
+2023-04-16 21:00:54,061 INFO  Application:20 - [] This is info message from Main class
+2023-04-16 21:00:54,066 WARN  Application:21 - [] This is warn message from Main class
+2023-04-16 21:00:54,066 ERROR Application:22 - [] This is error message from Main class
+2023-04-16 21:00:54,068 DEBUG Application:23 - [] This is debug message from Main class
+2023-04-16 21:00:54,068 INFO  Application:26 - [] Hello User 
+ Application starts now...
+2023-04-16 21:01:30,481 DEBUG ProjectController:43 - [] Sucessfully you got the Project details by id
+2023-04-16 21:19:06,803 INFO  Application:20 - [] This is info message from Main class
+2023-04-16 21:19:06,809 WARN  Application:21 - [] This is warn message from Main class
+2023-04-16 21:19:06,809 ERROR Application:22 - [] This is error message from Main class
+2023-04-16 21:19:06,810 DEBUG Application:23 - [] This is debug message from Main class
+2023-04-16 21:19:06,810 INFO  Application:26 - [] Hello User 
+ Application starts now...

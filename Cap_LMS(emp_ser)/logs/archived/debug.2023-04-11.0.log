@@ -1,0 +1,9 @@
+2023-04-11 09:52:03,727 INFO  LmsApplication:19 - [] This is info message from Main class
+2023-04-11 09:52:03,733 WARN  LmsApplication:20 - [] This is warn message from Main class
+2023-04-11 09:52:03,734 ERROR LmsApplication:21 - [] This is error message from Main class
+2023-04-11 09:52:03,735 DEBUG LmsApplication:22 - [] This is debug message from Main class
+2023-04-11 09:52:03,735 INFO  LmsApplication:25 - [] Hello User 
+ Application starts now...
+2023-04-11 09:53:08,546 DEBUG LeaveManagementController:37 - [] Sucessfully u featched all the leave details
+2023-04-11 09:54:29,692 DEBUG LeaveManagementController:29 - [] Your Leave sent sucessfully
+2023-04-11 09:54:36,895 DEBUG LeaveManagementController:37 - [] Sucessfully u featched all the leave details

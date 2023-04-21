@@ -1,0 +1,21 @@
+2023-04-16 14:12:44,759 INFO  LmsApplication:21 - [] This is info message from Main class
+2023-04-16 14:12:44,765 WARN  LmsApplication:22 - [] This is warn message from Main class
+2023-04-16 14:12:44,766 ERROR LmsApplication:23 - [] This is error message from Main class
+2023-04-16 14:12:44,766 DEBUG LmsApplication:24 - [] This is debug message from Main class
+2023-04-16 14:12:44,767 INFO  LmsApplication:27 - [] Hello User 
+ Application starts now...
+2023-04-16 14:14:21,271 DEBUG LeaveManagementController:37 - [] Sucessfully u featched all the leave details
+2023-04-16 14:31:59,176 INFO  LmsApplication:21 - [] This is info message from Main class
+2023-04-16 14:31:59,182 WARN  LmsApplication:22 - [] This is warn message from Main class
+2023-04-16 14:31:59,184 ERROR LmsApplication:23 - [] This is error message from Main class
+2023-04-16 14:31:59,184 DEBUG LmsApplication:24 - [] This is debug message from Main class
+2023-04-16 14:31:59,185 INFO  LmsApplication:27 - [] Hello User 
+ Application starts now...
+2023-04-16 14:31:59,451 DEBUG LeaveManagementController:37 - [] Sucessfully u featched all the leave details
+2023-04-16 21:19:38,542 INFO  LmsApplication:21 - [] This is info message from Main class
+2023-04-16 21:19:38,546 WARN  LmsApplication:22 - [] This is warn message from Main class
+2023-04-16 21:19:38,547 ERROR LmsApplication:23 - [] This is error message from Main class
+2023-04-16 21:19:38,547 DEBUG LmsApplication:24 - [] This is debug message from Main class
+2023-04-16 21:19:38,547 INFO  LmsApplication:27 - [] Hello User 
+ Application starts now...
+2023-04-16 21:22:36,278 DEBUG LeaveManagementController:37 - [] Sucessfully u featched all the leave details

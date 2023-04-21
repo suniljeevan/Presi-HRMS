@@ -1,0 +1,42 @@
+2023-04-10 19:33:05,368 INFO  EmpregistrationApplication:18 - [] This is info message from Main class
+2023-04-10 19:33:05,372 WARN  EmpregistrationApplication:19 - [] This is warn message from Main class
+2023-04-10 19:33:05,373 ERROR EmpregistrationApplication:20 - [] This is error message from Main class
+2023-04-10 19:33:05,374 DEBUG EmpregistrationApplication:21 - [] This is debug message from Main class
+2023-04-10 19:33:05,374 INFO  EmpregistrationApplication:24 - [] Hello User 
+ Application starts now...
+2023-04-10 19:33:24,328 INFO  EmployeeController:38 - [] Sucessfully you featched all the Employee details
+2023-04-10 19:34:41,896 INFO  EmployeeController:47 - [] New Employee added sucessfully
+2023-04-10 19:35:43,145 INFO  EmployeeController:47 - [] New Employee added sucessfully
+2023-04-10 19:41:35,393 INFO  EmpregistrationApplication:18 - [] This is info message from Main class
+2023-04-10 19:41:35,397 WARN  EmpregistrationApplication:19 - [] This is warn message from Main class
+2023-04-10 19:41:35,397 ERROR EmpregistrationApplication:20 - [] This is error message from Main class
+2023-04-10 19:41:35,397 DEBUG EmpregistrationApplication:21 - [] This is debug message from Main class
+2023-04-10 19:41:35,398 INFO  EmpregistrationApplication:24 - [] Hello User 
+ Application starts now...
+2023-04-10 19:41:42,182 INFO  EmployeeController:47 - [] New Employee added sucessfully
+2023-04-10 19:42:33,593 INFO  EmployeeController:38 - [] Sucessfully you featched all the Employee details
+2023-04-10 19:43:25,206 INFO  EmployeeController:56 - [] Sucessfully you got the Employee details by id
+2023-04-10 19:43:36,322 INFO  EmployeeController:38 - [] Sucessfully you featched all the Employee details
+2023-04-10 19:44:08,239 INFO  EmployeeController:68 - [] Sucessfully you updated the Employee details
+2023-04-10 20:06:44,054 INFO  EmpregistrationApplication:18 - [] This is info message from Main class
+2023-04-10 20:06:44,056 WARN  EmpregistrationApplication:19 - [] This is warn message from Main class
+2023-04-10 20:06:44,056 ERROR EmpregistrationApplication:20 - [] This is error message from Main class
+2023-04-10 20:06:44,056 DEBUG EmpregistrationApplication:21 - [] This is debug message from Main class
+2023-04-10 20:06:44,056 INFO  EmpregistrationApplication:24 - [] Hello User 
+ Application starts now...
+2023-04-10 20:07:39,137 INFO  EmployeeController:38 - [] Sucessfully you featched all the Employee details
+2023-04-10 20:25:53,451 INFO  EmpregistrationApplication:18 - [] This is info message from Main class
+2023-04-10 20:25:53,453 WARN  EmpregistrationApplication:19 - [] This is warn message from Main class
+2023-04-10 20:25:53,453 ERROR EmpregistrationApplication:20 - [] This is error message from Main class
+2023-04-10 20:25:53,453 DEBUG EmpregistrationApplication:21 - [] This is debug message from Main class
+2023-04-10 20:25:53,453 INFO  EmpregistrationApplication:24 - [] Hello User 
+ Application starts now...
+2023-04-10 20:26:09,325 INFO  EmployeeController:38 - [] Sucessfully you featched all the Employee details
+2023-04-10 20:31:59,803 INFO  EmpregistrationApplication:18 - [] This is info message from Main class
+2023-04-10 20:31:59,806 WARN  EmpregistrationApplication:19 - [] This is warn message from Main class
+2023-04-10 20:31:59,806 ERROR EmpregistrationApplication:20 - [] This is error message from Main class
+2023-04-10 20:31:59,806 DEBUG EmpregistrationApplication:21 - [] This is debug message from Main class
+2023-04-10 20:31:59,806 INFO  EmpregistrationApplication:24 - [] Hello User 
+ Application starts now...
+2023-04-10 20:32:03,524 INFO  EmployeeController:38 - [] Sucessfully you featched all the Employee details
+2023-04-10 20:37:31,899 INFO  EmployeeController:38 - [] Sucessfully you featched all the Employee details

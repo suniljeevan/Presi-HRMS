@@ -1,0 +1,37 @@
+2023-04-16 10:07:29,454 INFO  EmpregistrationApplication:18 - [] This is info message from Main class
+2023-04-16 10:07:29,457 WARN  EmpregistrationApplication:19 - [] This is warn message from Main class
+2023-04-16 10:07:29,458 ERROR EmpregistrationApplication:20 - [] This is error message from Main class
+2023-04-16 10:07:29,458 DEBUG EmpregistrationApplication:21 - [] This is debug message from Main class
+2023-04-16 10:07:29,458 INFO  EmpregistrationApplication:24 - [] Hello User 
+ Application starts now...
+2023-04-16 10:07:43,880 DEBUG EmployeeController:38 - [] Sucessfully you featched all the Employee details
+2023-04-16 10:07:49,785 DEBUG EmployeeController:56 - [] Sucessfully you got the Employee details by id
+2023-04-16 12:16:04,001 INFO  EmpregistrationApplication:19 - [] This is info message from Main class
+2023-04-16 12:16:04,004 WARN  EmpregistrationApplication:20 - [] This is warn message from Main class
+2023-04-16 12:16:04,005 ERROR EmpregistrationApplication:21 - [] This is error message from Main class
+2023-04-16 12:16:04,005 DEBUG EmpregistrationApplication:22 - [] This is debug message from Main class
+2023-04-16 12:16:04,005 INFO  EmpregistrationApplication:25 - [] Hello User 
+ Application starts now...
+2023-04-16 12:16:19,672 DEBUG EmployeeController:56 - [] Sucessfully you got the Employee details by id
+2023-04-16 12:19:02,455 INFO  EmpregistrationApplication:19 - [] This is info message from Main class
+2023-04-16 12:19:02,458 WARN  EmpregistrationApplication:20 - [] This is warn message from Main class
+2023-04-16 12:19:02,458 ERROR EmpregistrationApplication:21 - [] This is error message from Main class
+2023-04-16 12:19:02,459 DEBUG EmpregistrationApplication:22 - [] This is debug message from Main class
+2023-04-16 12:19:02,459 INFO  EmpregistrationApplication:25 - [] Hello User 
+ Application starts now...
+2023-04-16 12:19:12,474 DEBUG EmployeeController:56 - [] Sucessfully you got the Employee details by id
+2023-04-16 20:02:53,968 INFO  EmpregistrationApplication:19 - [] This is info message from Main class
+2023-04-16 20:02:53,970 WARN  EmpregistrationApplication:20 - [] This is warn message from Main class
+2023-04-16 20:02:53,970 ERROR EmpregistrationApplication:21 - [] This is error message from Main class
+2023-04-16 20:02:53,970 DEBUG EmpregistrationApplication:22 - [] This is debug message from Main class
+2023-04-16 20:02:53,970 INFO  EmpregistrationApplication:25 - [] Hello User 
+ Application starts now...
+2023-04-16 20:03:14,032 DEBUG EmployeeController:56 - [] Sucessfully you got the Employee details by id
+2023-04-16 20:03:19,756 DEBUG EmployeeController:56 - [] Sucessfully you got the Employee details by id
+2023-04-16 21:20:13,382 INFO  EmpregistrationApplication:19 - [] This is info message from Main class
+2023-04-16 21:20:13,388 WARN  EmpregistrationApplication:20 - [] This is warn message from Main class
+2023-04-16 21:20:13,389 ERROR EmpregistrationApplication:21 - [] This is error message from Main class
+2023-04-16 21:20:13,390 DEBUG EmpregistrationApplication:22 - [] This is debug message from Main class
+2023-04-16 21:20:13,391 INFO  EmpregistrationApplication:25 - [] Hello User 
+ Application starts now...
+2023-04-16 21:23:24,157 DEBUG EmployeeController:56 - [] Sucessfully you got the Employee details by id

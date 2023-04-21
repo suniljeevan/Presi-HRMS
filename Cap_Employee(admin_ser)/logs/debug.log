@@ -1,0 +1,17 @@
+2023-04-19 11:24:31,508 INFO  EmpregistrationApplication:19 - [] This is info message from Main class
+2023-04-19 11:24:31,516 WARN  EmpregistrationApplication:20 - [] This is warn message from Main class
+2023-04-19 11:24:31,516 ERROR EmpregistrationApplication:21 - [] This is error message from Main class
+2023-04-19 11:24:31,516 DEBUG EmpregistrationApplication:22 - [] This is debug message from Main class
+2023-04-19 11:24:31,517 INFO  EmpregistrationApplication:25 - [] Hello User 
+ Application starts now...
+2023-04-19 11:26:14,761 DEBUG EmployeeController:56 - [] Sucessfully you got the Employee details by id
+2023-04-19 11:26:22,029 DEBUG EmployeeController:38 - [] Sucessfully you featched all the Employee details
+2023-04-19 11:31:35,087 DEBUG EmployeeController:38 - [] Sucessfully you featched all the Employee details
+2023-04-19 11:34:54,581 DEBUG EmployeeController:38 - [] Sucessfully you featched all the Employee details
+2023-04-19 15:32:51,304 INFO  EmpregistrationApplication:19 - [] This is info message from Main class
+2023-04-19 15:32:51,308 WARN  EmpregistrationApplication:20 - [] This is warn message from Main class
+2023-04-19 15:32:51,309 ERROR EmpregistrationApplication:21 - [] This is error message from Main class
+2023-04-19 15:32:51,309 DEBUG EmpregistrationApplication:22 - [] This is debug message from Main class
+2023-04-19 15:32:51,310 INFO  EmpregistrationApplication:25 - [] Hello User 
+ Application starts now...
+2023-04-19 15:35:14,615 DEBUG EmployeeController:38 - [] Sucessfully you featched all the Employee details

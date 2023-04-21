@@ -1,0 +1,32 @@
+2023-04-08 12:33:08,655 INFO  ProjectController:48 - [] [getMessage] info message
+2023-04-08 12:33:08,660 WARN  ProjectController:49 - [] [getMessage] warn message
+2023-04-08 12:33:08,661 ERROR ProjectController:50 - [] [getMessage] error message
+2023-04-08 12:33:08,662 DEBUG ProjectController:51 - [] [getMessage] debug message
+2023-04-08 12:33:19,932 INFO  ProjectController:37 - [] [getMessage] info message
+2023-04-08 12:33:19,934 WARN  ProjectController:38 - [] [getMessage] warn message
+2023-04-08 12:33:19,936 ERROR ProjectController:39 - [] [getMessage] error message
+2023-04-08 12:33:19,936 DEBUG ProjectController:40 - [] [getMessage] debug message
+2023-04-08 12:35:15,422 INFO  ProjectController:61 - [] [getMessage] info message
+2023-04-08 12:35:15,422 WARN  ProjectController:62 - [] [getMessage] warn message
+2023-04-08 12:35:15,422 ERROR ProjectController:63 - [] [getMessage] error message
+2023-04-08 12:35:15,422 DEBUG ProjectController:64 - [] [getMessage] debug message
+2023-04-08 13:05:42,850 INFO  ProjectController:37 - [] info message from get all project method
+2023-04-08 13:05:42,850 WARN  ProjectController:38 - [] warn message from get all project method
+2023-04-08 13:05:42,850 ERROR ProjectController:39 - [] error message from get all project method
+2023-04-08 13:05:42,850 DEBUG ProjectController:40 - [] debug message from get all project method
+2023-04-08 13:06:08,402 INFO  ProjectController:94 - [] info message from deleting project method
+2023-04-08 13:06:08,410 WARN  ProjectController:95 - [] warn message from deleting project method
+2023-04-08 13:06:08,410 ERROR ProjectController:96 - [] error message from deleting project method
+2023-04-08 13:06:08,410 DEBUG ProjectController:97 - [] debug message from deleting project method
+2023-04-08 13:06:19,469 INFO  ProjectController:48 - [] info message from get project by id method
+2023-04-08 13:06:19,469 WARN  ProjectController:49 - [] warn message from get project by id method
+2023-04-08 13:06:19,493 ERROR ProjectController:50 - [] error message from get project by id method
+2023-04-08 13:06:19,501 DEBUG ProjectController:51 - [] debug message from get project by id method
+2023-04-08 13:07:36,383 INFO  ProjectController:49 - [] info message from get project by id method
+2023-04-08 13:07:36,384 WARN  ProjectController:50 - [] warn message from get project by id method
+2023-04-08 13:07:36,385 ERROR ProjectController:51 - [] error message from get project by id method
+2023-04-08 13:07:36,386 DEBUG ProjectController:52 - [] debug message from get project by id method
+2023-04-08 13:07:41,622 INFO  ProjectController:37 - [] info message from get all project method
+2023-04-08 13:07:41,622 WARN  ProjectController:38 - [] warn message from get all project method
+2023-04-08 13:07:41,622 ERROR ProjectController:39 - [] error message from get all project method
+2023-04-08 13:07:41,622 DEBUG ProjectController:40 - [] debug message from get all project method

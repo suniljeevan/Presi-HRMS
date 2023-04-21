@@ -1,0 +1,14 @@
+2023-04-15 21:02:07,965 INFO  Application:18 - [] This is info message from Main class
+2023-04-15 21:02:07,973 WARN  Application:19 - [] This is warn message from Main class
+2023-04-15 21:02:07,974 ERROR Application:20 - [] This is error message from Main class
+2023-04-15 21:02:07,975 DEBUG Application:21 - [] This is debug message from Main class
+2023-04-15 21:02:07,975 INFO  Application:24 - [] Hello User 
+ Application starts now...
+2023-04-15 21:02:14,088 DEBUG ProjectController:35 - [] Sucessfully you featched all the Project details
+2023-04-15 21:29:26,384 INFO  Application:18 - [] This is info message from Main class
+2023-04-15 21:29:26,389 WARN  Application:19 - [] This is warn message from Main class
+2023-04-15 21:29:26,389 ERROR Application:20 - [] This is error message from Main class
+2023-04-15 21:29:26,390 DEBUG Application:21 - [] This is debug message from Main class
+2023-04-15 21:29:26,391 INFO  Application:24 - [] Hello User 
+ Application starts now...
+2023-04-15 21:29:57,293 DEBUG ProjectController:35 - [] Sucessfully you featched all the Project details

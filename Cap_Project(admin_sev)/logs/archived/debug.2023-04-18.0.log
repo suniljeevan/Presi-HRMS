@@ -1,0 +1,28 @@
+2023-04-18 11:00:30,259 INFO  Application:20 - [] This is info message from Main class
+2023-04-18 11:00:30,263 WARN  Application:21 - [] This is warn message from Main class
+2023-04-18 11:00:30,264 ERROR Application:22 - [] This is error message from Main class
+2023-04-18 11:00:30,265 DEBUG Application:23 - [] This is debug message from Main class
+2023-04-18 11:00:30,265 INFO  Application:26 - [] Hello User 
+ Application starts now...
+2023-04-18 11:01:53,884 DEBUG ProjectController:43 - [] Sucessfully you got the Project details by id
+2023-04-18 11:04:00,003 DEBUG ProjectController:35 - [] Sucessfully you featched all the Project details
+2023-04-18 11:39:48,894 DEBUG ProjectController:43 - [] Sucessfully you got the Project details by id
+2023-04-18 15:33:08,258 INFO  Application:20 - [] This is info message from Main class
+2023-04-18 15:33:08,260 WARN  Application:21 - [] This is warn message from Main class
+2023-04-18 15:33:08,260 ERROR Application:22 - [] This is error message from Main class
+2023-04-18 15:33:08,260 DEBUG Application:23 - [] This is debug message from Main class
+2023-04-18 15:33:08,260 INFO  Application:26 - [] Hello User 
+ Application starts now...
+2023-04-18 15:40:10,112 DEBUG ProjectController:35 - [] Sucessfully you featched all the Project details
+2023-04-18 15:40:23,043 DEBUG ProjectController:35 - [] Sucessfully you featched all the Project details
+2023-04-18 15:41:04,204 DEBUG ProjectController:43 - [] Sucessfully you got the Project details by id
+2023-04-18 15:41:33,850 DEBUG ProjectController:35 - [] Sucessfully you featched all the Project details
+2023-04-18 15:43:00,681 DEBUG ProjectController:35 - [] Sucessfully you featched all the Project details
+2023-04-18 15:43:59,652 DEBUG ProjectController:35 - [] Sucessfully you featched all the Project details
+2023-04-18 21:34:25,240 INFO  Application:20 - [] This is info message from Main class
+2023-04-18 21:34:25,248 WARN  Application:21 - [] This is warn message from Main class
+2023-04-18 21:34:25,249 ERROR Application:22 - [] This is error message from Main class
+2023-04-18 21:34:25,249 DEBUG Application:23 - [] This is debug message from Main class
+2023-04-18 21:34:25,249 INFO  Application:26 - [] Hello User 
+ Application starts now...
+2023-04-18 21:44:22,013 DEBUG ProjectController:43 - [] Sucessfully you got the Project details by id

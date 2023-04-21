@@ -1,0 +1,27 @@
+2023-04-18 10:59:24,525 INFO  LmsApplication:21 - [] This is info message from Main class
+2023-04-18 10:59:24,531 WARN  LmsApplication:22 - [] This is warn message from Main class
+2023-04-18 10:59:24,532 ERROR LmsApplication:23 - [] This is error message from Main class
+2023-04-18 10:59:24,532 DEBUG LmsApplication:24 - [] This is debug message from Main class
+2023-04-18 10:59:24,533 INFO  LmsApplication:27 - [] Hello User 
+ Application starts now...
+2023-04-18 11:02:07,985 DEBUG LeaveManagementController:37 - [] Sucessfully u featched all the leave details
+2023-04-18 11:40:17,494 DEBUG LeaveManagementController:37 - [] Sucessfully u featched all the leave details
+2023-04-18 15:33:25,922 INFO  LmsApplication:21 - [] This is info message from Main class
+2023-04-18 15:33:25,925 WARN  LmsApplication:22 - [] This is warn message from Main class
+2023-04-18 15:33:25,925 ERROR LmsApplication:23 - [] This is error message from Main class
+2023-04-18 15:33:25,925 DEBUG LmsApplication:24 - [] This is debug message from Main class
+2023-04-18 15:33:25,925 INFO  LmsApplication:27 - [] Hello User 
+ Application starts now...
+2023-04-18 15:41:08,387 DEBUG LeaveManagementController:37 - [] Sucessfully u featched all the leave details
+2023-04-18 15:41:47,392 DEBUG LeaveManagementController:37 - [] Sucessfully u featched all the leave details
+2023-04-18 15:43:18,126 DEBUG LeaveManagementController:37 - [] Sucessfully u featched all the leave details
+2023-04-18 15:44:07,242 DEBUG LeaveManagementController:37 - [] Sucessfully u featched all the leave details
+2023-04-18 15:46:12,340 DEBUG LeaveManagementController:37 - [] Sucessfully u featched all the leave details
+2023-04-18 15:46:31,202 DEBUG LeaveManagementController:37 - [] Sucessfully u featched all the leave details
+2023-04-18 21:33:52,931 INFO  LmsApplication:21 - [] This is info message from Main class
+2023-04-18 21:33:52,936 WARN  LmsApplication:22 - [] This is warn message from Main class
+2023-04-18 21:33:52,937 ERROR LmsApplication:23 - [] This is error message from Main class
+2023-04-18 21:33:52,937 DEBUG LmsApplication:24 - [] This is debug message from Main class
+2023-04-18 21:33:52,938 INFO  LmsApplication:27 - [] Hello User 
+ Application starts now...
+2023-04-18 21:44:33,366 DEBUG LeaveManagementController:37 - [] Sucessfully u featched all the leave details

@@ -1,0 +1,25 @@
+2023-04-18 10:58:42,018 INFO  EmpregistrationApplication:19 - [] This is info message from Main class
+2023-04-18 10:58:42,452 WARN  EmpregistrationApplication:20 - [] This is warn message from Main class
+2023-04-18 10:58:42,453 ERROR EmpregistrationApplication:21 - [] This is error message from Main class
+2023-04-18 10:58:42,453 DEBUG EmpregistrationApplication:22 - [] This is debug message from Main class
+2023-04-18 10:58:42,456 INFO  EmpregistrationApplication:25 - [] Hello User 
+ Application starts now...
+2023-04-18 11:01:34,707 DEBUG EmployeeController:56 - [] Sucessfully you got the Employee details by id
+2023-04-18 11:01:40,667 DEBUG EmployeeController:56 - [] Sucessfully you got the Employee details by id
+2023-04-18 11:39:56,323 DEBUG EmployeeController:56 - [] Sucessfully you got the Employee details by id
+2023-04-18 15:34:12,099 INFO  EmpregistrationApplication:19 - [] This is info message from Main class
+2023-04-18 15:34:12,108 WARN  EmpregistrationApplication:20 - [] This is warn message from Main class
+2023-04-18 15:34:12,109 ERROR EmpregistrationApplication:21 - [] This is error message from Main class
+2023-04-18 15:34:12,109 DEBUG EmpregistrationApplication:22 - [] This is debug message from Main class
+2023-04-18 15:34:12,110 INFO  EmpregistrationApplication:25 - [] Hello User 
+ Application starts now...
+2023-04-18 15:40:59,065 DEBUG EmployeeController:56 - [] Sucessfully you got the Employee details by id
+2023-04-18 15:42:42,618 DEBUG EmployeeController:38 - [] Sucessfully you featched all the Employee details
+2023-04-18 15:44:14,464 DEBUG EmployeeController:38 - [] Sucessfully you featched all the Employee details
+2023-04-18 21:33:22,252 INFO  EmpregistrationApplication:19 - [] This is info message from Main class
+2023-04-18 21:33:22,258 WARN  EmpregistrationApplication:20 - [] This is warn message from Main class
+2023-04-18 21:33:22,259 ERROR EmpregistrationApplication:21 - [] This is error message from Main class
+2023-04-18 21:33:22,259 DEBUG EmpregistrationApplication:22 - [] This is debug message from Main class
+2023-04-18 21:33:22,260 INFO  EmpregistrationApplication:25 - [] Hello User 
+ Application starts now...
+2023-04-18 21:44:15,745 DEBUG EmployeeController:56 - [] Sucessfully you got the Employee details by id

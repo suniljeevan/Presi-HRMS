@@ -1,0 +1,26 @@
+server:
+  port: 9191
+
+spring:
+  application:
+    name: API-GATEWAY
+  cloud:
+    gateway:
+      routes:
+        - id: EMP-ADMIN
+          uri: lb://EMP-ADMIN
+          predicates:
+          - Path=/employees/**
+        - id: EMP-ATTENDANCE
+          uri: lb://EMP-ATTENDANCE
+          predicates:
+          - Path=/attendance/**
+        - id: EMP-LEAVE
+          uri: lb://EMP-LEAVE
+          predicates:
+          - Path=/leaves/**
+        - id: EMP-PROJECT
+          uri: lb://EMP-PROJECT
+          predicates:
+          - Path=/projects/**
+    

@@ -1,0 +1,33 @@
+2023-04-09 07:36:21,887 INFO  ProjectController:37 - [] info message from get all project method
+2023-04-09 07:36:21,903 WARN  ProjectController:38 - [] warn message from get all project method
+2023-04-09 07:36:21,903 ERROR ProjectController:39 - [] error message from get all project method
+2023-04-09 07:36:21,903 DEBUG ProjectController:40 - [] debug message from get all project method
+2023-04-09 07:36:35,860 INFO  ProjectController:49 - [] info message from get project by id method
+2023-04-09 07:36:35,868 WARN  ProjectController:50 - [] warn message from get project by id method
+2023-04-09 07:36:35,868 ERROR ProjectController:51 - [] error message from get project by id method
+2023-04-09 07:36:35,868 DEBUG ProjectController:52 - [] debug message from get project by id method
+2023-04-09 13:18:38,177 INFO  ProjectController:49 - [] info message from get project by id method
+2023-04-09 13:18:38,185 WARN  ProjectController:50 - [] warn message from get project by id method
+2023-04-09 13:18:38,185 ERROR ProjectController:51 - [] error message from get project by id method
+2023-04-09 13:18:38,185 DEBUG ProjectController:52 - [] debug message from get project by id method
+2023-04-09 13:55:35,312 INFO  Application:18 - [] This is info message from Main class
+2023-04-09 13:55:35,318 WARN  Application:19 - [] This is warn message from Main class
+2023-04-09 13:55:35,318 ERROR Application:20 - [] This is error message from Main class
+2023-04-09 13:55:35,319 DEBUG Application:21 - [] This is debug message from Main class
+2023-04-09 13:55:35,319 INFO  Application:23 - [] Hello Veeru 
+ Program starts now... 
+ u can open postman and continue with ur commands
+2023-04-09 13:55:44,889 INFO  ProjectController:37 - [] Sucessfully u featched all the project details
+2023-04-09 13:55:59,420 INFO  ProjectController:45 - [] Sucessfully u got ur Project by id
+2023-04-09 17:41:09,738 INFO  Application:18 - [] This is info message from Main class
+2023-04-09 17:41:09,743 WARN  Application:19 - [] This is warn message from Main class
+2023-04-09 17:41:09,744 ERROR Application:20 - [] This is error message from Main class
+2023-04-09 17:41:09,744 DEBUG Application:21 - [] This is debug message from Main class
+2023-04-09 17:41:09,745 INFO  Application:24 - [] Hello Veeru 
+ Program starts now... 
+ u can open postman and continue with ur commands
+2023-04-09 17:42:31,414 INFO  ProjectController:37 - [] Sucessfully u featched all the project details
+2023-04-09 17:43:00,144 INFO  ProjectController:45 - [] Sucessfully u got ur Project by id
+2023-04-09 17:44:06,314 INFO  ProjectController:56 - [] New project is added sucessfully
+2023-04-09 17:44:47,135 INFO  ProjectController:66 - [] Sucessfully u updated the project details
+2023-04-09 17:45:11,338 INFO  ProjectController:85 - [] project has been deleted sucessfuly
